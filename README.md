@@ -1,6 +1,7 @@
 # DGIST_Potential_Market
 디지스트 재능마켓(데이터베이스 팀프로젝트)
 
+### ERD 설계
 ![ERD(최종)](https://user-images.githubusercontent.com/89922415/222923558-3f1f2e52-d273-4154-9749-546e8acfaa06.JPG)
 
 ![메인이미지](https://user-images.githubusercontent.com/89922415/222923752-a629326b-8303-4d34-8694-d188b0654f85.JPG)
