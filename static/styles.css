@@ -1,0 +1,26 @@
+:root {
+    --link-default-color: #000000;
+    --link-hover-color: #000000;
+}
+
+body {
+    background-color: #575656;
+    color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: skyblue;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+.textarea-output {
+    white-space: pre-line;
+    overflow-wrap: break-word;
+}

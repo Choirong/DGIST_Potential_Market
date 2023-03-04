@@ -1,0 +1,17 @@
+/*.navbar a:active {*/
+/*    color: white;*/
+/*}*/
+
+.navbar > a:link, .navbar > a:visited {
+    color: white;
+}
+
+.navbar a:hover {
+    background-color: rgb(83, 88, 90);
+    color: rgb(255, 255, 255);
+}
+
+.navbar a#home {
+    background-color: green;
+    color: white;
+}
